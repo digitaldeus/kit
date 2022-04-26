@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.323
+
+### Patch Changes
+
+- Default to target: node14.8, so that top-level await is supported in user code ([#4742](https://github.com/sveltejs/kit/pull/4742))
+
 ## 1.0.0-next.322
 
 ### Patch Changes
